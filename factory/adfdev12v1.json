@@ -1,0 +1,9 @@
+{
+	"name": "adfdev12v1",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6df305f7-78fb-426a-b6aa-d2a83193db1d",
+		"tenantId": "39a9b7ec-a844-42b0-83fa-32cf8970caeb"
+	}
+}
